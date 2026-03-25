@@ -2,7 +2,7 @@
 
 # 🎯 Customer Success Platform Suite
 
-### Interactive simulations of Gainsight, Totango & ChurnZero — built in a single HTML file
+### Interactive simulations of Gainsight, Totango & ChurnZero
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -189,13 +189,14 @@ All CSS, JavaScript, and HTML are embedded in a single file. CSS is **scoped by 
 
 ## ⚠️ Disclaimer
 
-> This project is a **frontend simulation** created for portfolio and demonstration purposes only. It is **not affiliated with, endorsed by, or connected to** Gainsight, Totango, or ChurnZero in any way. All data shown is fictional and for illustrative purposes only.
+> This project is created for portfolio and demonstration purposes only. It is **not affiliated with, endorsed by, or connected to** Gainsight, Totango, or ChurnZero in any way. All data shown is fictional and for illustrative purposes only.This project is open for personal and educational use. Please do not redistribute commercially without attribution.
+
 
 ---
 
 ## 📄 License
 
-This project is open for personal and educational use. Please do not redistribute commercially without attribution.
+This project is licensed under MIT license 
 
 ---
 
