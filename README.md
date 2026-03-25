@@ -46,7 +46,7 @@ No installation. No server. No dependencies.
 git clone https://github.com/your-username/cs-platform-suite.git
 
 # 2. Open the file in your browser
-open DOC-20260325-WA0008._1774425148861.html
+open index.html
 ```
 
 Or simply **download the HTML file** and double-click it. That's it.
