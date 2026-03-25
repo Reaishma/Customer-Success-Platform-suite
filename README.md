@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Customer Success Platform Suite
+# 🎯 Customer Success Platform Suite (SaaS Simulation)
 
 ### Interactive simulations of Gainsight, Totango & ChurnZero
 
@@ -14,6 +14,7 @@
 <br/>
 
 > A fully interactive, zero-dependency simulation of three leading Customer Success platforms — **Gainsight**, **Totango**, and **ChurnZero** — all inside one self-contained HTML file. No frameworks, no build tools, no server required.
+Designed to replicate real-world customer success workflows including health scoring, churn prediction, lifecycle tracking, and engagement automation.
 
 <br/>
 
@@ -115,6 +116,7 @@ Or simply **download the HTML file** and double-click it. That's it.
 </details>
 
 ---
+💡 Simulates how customer success teams reduce churn, improve retention, and drive engagement in SaaS products.
 
 ## 🧭 Navigation
 
