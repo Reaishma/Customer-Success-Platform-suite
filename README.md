@@ -13,7 +13,7 @@
 
 <br/>
 
-> A fully interactive, zero-dependency frontend simulation of three leading Customer Success platforms — **Gainsight**, **Totango**, and **ChurnZero** — all inside one self-contained HTML file. No frameworks, no build tools, no server required.
+> A fully interactive, zero-dependency simulation of three leading Customer Success platforms — **Gainsight**, **Totango**, and **ChurnZero** — all inside one self-contained HTML file. No frameworks, no build tools, no server required.
 
 <br/>
 
